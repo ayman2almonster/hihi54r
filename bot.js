@@ -1,5 +1,4 @@
 const Eris = require("eris");
-client.login(process.env.BOT_TOKEN);
 x5bzteam.on("ready", () => {
     console.log("Yo! Changer [ON]");
     onstart();
@@ -27,3 +26,6 @@ var x5bz2 = ' ';
      }, 1000);
 }
 x5bzteam.connect();
+
+client.login(process.env.BOT_TOKEN);
+
