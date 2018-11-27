@@ -4,7 +4,7 @@ x5bzteam.on("ready", () => {
     console.log("Yo! Changer [ON]");
     onstart();
 });
-x5bz = "319837668211032064";
+x5bz = "437229030178029590";
 nick = " Ayman ALmonster ";
 function onstart(){
     var v1 = nick.split('');
